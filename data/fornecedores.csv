@@ -1,0 +1,6 @@
+fornecedor_id,nome_fornecedor,cnpj,email,telefone,cidade,estado,produto_principal,avaliacao_media
+1,Soluções Industriais LTDA,12.345.678/0001-90,contato@solucoesind.com,(81) 3333-4455,Recife,PE,Parafuso Aço,4.7
+2,Distribuidora Alfa,98.765.432/0001-12,vendas@distribuidoraalfa.com,(11) 2222-7788,São Paulo,SP,Plástico ABS,4.3
+3,Metalúrgica Prime,45.678.912/0001-55,atendimento@metalprime.com,(31) 4444-9090,Belo Horizonte,MG,Ferro Laminado,4.8
+4,LogComercial,22.334.556/0001-22,suporte@logcomercial.com,(85) 9999-1234,Fortaleza,CE,Caixas de Papelão,4.5
+5,Importadora TechParts,11.223.344/0001-88,contato@techparts.com,(21) 4002-8922,Rio de Janeiro,RJ,Componentes Eletrônicos,4.9
