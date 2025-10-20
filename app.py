@@ -10,7 +10,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     if st.button("🚀 Projeto 1 – Dashboard de Controle de Estoque"):
-        st.switch_page("pages/projeto1_estoque.py")
+        st.switch_page("pages/projeto1.py")
 
 # Aqui você poderá adicionar outros projetos no futuro:
 # with col2:
