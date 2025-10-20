@@ -12,10 +12,9 @@ with col1:
     if st.button("🚀 Projeto 1 – Dashboard de Controle de Estoque"):
         st.switch_page("pages/projeto1.py")
 
-# Aqui você poderá adicionar outros projetos no futuro:
-# with col2:
-#     if st.button("📈 Projeto 2 – Análise de Vendas"):
-#         st.switch_page("pages/projeto2_vendas.py")
+with col2:
+    if st.button("📈 Projeto 2 – Análise de Vendas"):
+        st.switch_page("pages/projeto2.py")
 
 st.markdown("---")
 st.info("📘 Curso: Sistemas de Informação – Disciplina de Fundamentos em Ciência de Dados (2025.2)")
