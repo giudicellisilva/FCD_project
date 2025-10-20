@@ -24,51 +24,38 @@ Também é necessário ter o **Git** instalado para clonar o repositório:
 ### 1️⃣ Clone o repositório
 ```bash
 git clone https://github.com/giudicellisilva/FCD_project.git
+```
+
+```bash
 cd FCD_project
 ```
 
-
 ---
 
-### 2️⃣ Crie e ative um ambiente virtual
-
-**Windows**
-```bash
-python -m venv .venv
-.venv\Scripts\activate
-```
-
-**Linux / macOS**
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
-
----
-
-### 3️⃣ Instale as dependências
+### 2️⃣ Instale as dependências
 ```bash
 pip install -r requirements.txt
+
+ou 
+
+python -m pip install -r requirements.txt
 ```
 
-> Se o arquivo `requirements.txt` ainda não existir, crie um com as seguintes dependências:
-> ```txt
-> streamlit
-> pandas
-> plotly
-> bcrypt
-> ```
 
 ---
 
-### 4️⃣ Execute o projeto
+### 3️⃣ Execute o projeto
 ```bash
 streamlit run app.py
+
+ou 
+
+python -m streamlit run app.py
 ```
 
 O sistema abrirá automaticamente no navegador padrão.
----
 
+---
 
 ## 📦 3. Projetos Desenvolvidos
 
