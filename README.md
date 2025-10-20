@@ -26,13 +26,16 @@ Também é necessário ter o **Git** instalado para clonar o repositório:
 git clone https://github.com/giudicellisilva/FCD_project.git
 ```
 
+---
+
+### 2️⃣ Entre no repositório
 ```bash
 cd FCD_project
 ```
 
 ---
 
-### 2️⃣ Instale as dependências
+### 3️⃣ Instale as dependências
 ```bash
 pip install -r requirements.txt
 
@@ -44,7 +47,7 @@ python -m pip install -r requirements.txt
 
 ---
 
-### 3️⃣ Execute o projeto
+### 4️⃣ Execute o projeto
 ```bash
 streamlit run app.py
 
