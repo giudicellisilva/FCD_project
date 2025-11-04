@@ -24,7 +24,7 @@ with col1:
     if st.button("🚀 Projeto 5 – Dashboard de Performance Logística"):
         st.switch_page("pages/projeto5.py")
 
-    if st.button("🚀 Projeto 6 – Dashboard Estratégico de Supply Chain"):
+    if st.button("📈 Projeto 6 – Dashboard Estratégico de Supply Chain"):
         st.switch_page("pages/projeto6.py")
     
 st.markdown("---")
