@@ -17,6 +17,9 @@ with col1:
 
     if st.button("🚀 Projeto 3 – Compras e Fornecedores"):
         st.switch_page("pages/projeto3.py")
+
+    if st.button("📈 Projeto 4 – Estoque, Vendas e Compras)"):
+        st.switch_page("pages/projeto4.py")
     
 st.markdown("---")
 st.info("📘 Curso: Sistemas de Informação – Disciplina de Fundamentos em Ciência de Dados (2025.2)")
